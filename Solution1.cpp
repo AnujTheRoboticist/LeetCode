@@ -1,3 +1,5 @@
+// Video Solution: https://www.youtube.com/watch?v=7jDS9KQEDbI&ab_channel=NikhilLohia
+
 //sort + two pointer
 //Runtime: 8 ms, faster than 99.93% of C++ online submissions for Two Sum.
 //Memory Usage: 9.5 MB, less than 70.01% of C++ online submissions for Two Sum.
@@ -30,7 +32,7 @@
 //     }
 // };
 
-Hash Map 0(n)
+// Hash Map 0(n)
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
